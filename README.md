@@ -1,3 +1,3 @@
 # Knights Travails
 
-## The odin Project Assignments
+## The Odin Project Assignments
