@@ -1,1 +1,3 @@
-# knights-travails-odin
+# Knights Travails
+
+## The odin Project Assignments
